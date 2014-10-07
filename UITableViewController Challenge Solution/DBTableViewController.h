@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DBTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by admin on 10/7/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface DBTableViewController : UITableViewController
 
 @end
-
